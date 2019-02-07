@@ -1,0 +1,1 @@
+Este é um texte de estudo sobre a utilização do git
